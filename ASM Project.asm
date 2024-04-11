@@ -1,10 +1,6 @@
 TITLE String Primatives & macros     (Proj6_dixonbre.asm)
 
 ; Author: Brett Dixon 
-; Last Modified: 6/4/2023
-; OSU email address: dixonbre@oregonstate.edu
-; Course number/section:   CS271 Section 400
-; Project Number: 6                Due Date: 6/11/2023
 ; Description: The program first prompts greets the user and introduces the program then prompts to enter a string of signed integers
 ;				the string is then validated and converted to an array of integers, the sum and average of the array is
 ;				calculated then the arrays (numbers, sum, average) are converted into a string of ASCII characters 
