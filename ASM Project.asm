@@ -1,4 +1,4 @@
-TITLE String Primatives & macros     (Proj6_dixonbre.asm)
+TITLE String Primatives & macros     (MASM-project.asm)
 
 ; Author: Brett Dixon 
 ; Description: The program first prompts greets the user and introduces the program then prompts to enter a string of signed integers
